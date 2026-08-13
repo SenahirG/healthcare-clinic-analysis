@@ -4,8 +4,7 @@ An end-to-end healthcare data analysis project examining patient demographics, d
 
 ## Dashboard Preview
 
-![Healthcare Clinic Dashboard](Clinic%20Patient%20%26%20Diagnosis%20Dashboard.png)
-
+![Healthcare Clinic Dashboard](dashboard-preview.png)
 ## Live Dashboard
 
 [View the interactive Tableau dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
