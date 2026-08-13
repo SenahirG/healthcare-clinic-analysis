@@ -2,6 +2,10 @@
 
 An end-to-end healthcare data analysis project examining patient demographics, diagnosis patterns, visit utilization, and commonly performed procedures.
 
+## Dashboard Preview
+
+![Healthcare Clinic Dashboard](Clinic%20Patient%20%26%20Diagnosis%20Dashboard.png)
+
 ## Live Dashboard
 
 [View the interactive Tableau dashboard](PASTE_YOUR_TABLEAU_PUBLIC_LINK_HERE)
